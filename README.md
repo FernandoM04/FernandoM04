@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and Design
 - 🌱 I’m currently learning HTML + CSS
 - 💞️ I’m looking to collaborate ...
-- 📫 How to reach me ...
+- 📫 How to reach me.. martinezjamil2004@gmail.com
 
 <!---
 FernandoM04/FernandoM04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
